@@ -10,7 +10,7 @@ namespace GeometriArea
     {
         public double Length { get; set; }
 
-        public Square() : base()
+        public Square()
         {
             Length = 8.88;
         }

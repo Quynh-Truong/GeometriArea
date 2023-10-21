@@ -11,7 +11,7 @@ namespace GeometriArea
         public double HalfRadius1 { get; set; }
         public double HalfRadius2 { get; set; }
 
-        public Ellipse() : base()
+        public Ellipse()
         {
             HalfRadius1 = 5.2;
             HalfRadius2 = 7.5;

@@ -11,7 +11,7 @@ namespace GeometriArea
         public double BaseLength { get; set; }
         public double Height2 { get; set; }
 
-        public Parallellogram() : base()
+        public Parallellogram()
         {
             BaseLength = 15.14;
             Height = 12.1;

@@ -12,7 +12,7 @@ namespace GeometriArea
         public double Height1 { get; set; }
 
 
-        public Rectangle() : base()
+        public Rectangle()
         {
             Width1 = 4.6;
             Height1 = 2.1;

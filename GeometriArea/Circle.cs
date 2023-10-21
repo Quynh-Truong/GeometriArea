@@ -10,7 +10,7 @@ namespace GeometriArea
     {
         public double Radius { get; set; }
 
-        public Circle() : base()
+        public Circle()
         {
             Radius = 5.8;
         }
